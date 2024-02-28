@@ -1,0 +1,9 @@
+{
+  "item.whirl_wind.whirl_wind_spawn_egg": "Яйце виклику вихора",
+  "item.whirl_wind.breeze_rod": "Стрижень бриза",
+  "item.whirl_wind.breeze_powder": "Порох бриза",
+  "item.whirl_wind.wind_charge": "Вітровий заряд",
+  "item.whirl_wind.charge_potion": "Заряджене зілля",
+  "entity.whirl_wind.whirl_wind": "Вихор",
+  "entity.whirl_wind.charge_potion": "Заряджене зілля"
+}
